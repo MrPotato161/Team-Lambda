@@ -1,2 +1,2 @@
-# mrpotato161.github.io
-GitHub Pages
+# Team Lambda
+The WIP website for Team Lambda!
