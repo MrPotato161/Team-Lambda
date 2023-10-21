@@ -2696,3 +2696,117 @@ a {
   color: #9fe870;
   text-align: center;
 }
+.cid-E6abnenyMT {
+  padding-top: 7rem;
+  padding-bottom: 10rem;
+  background-color: #fe8d01;
+}
+.cid-E6abnenyMT .row.main {
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.cid-E6abnenyMT .mbr-section-subtitle {
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  color: #b18161;
+}
+.cid-E6abnenyMT .mbr-section-title {
+  padding-bottom: 45px;
+  color: #232323;
+  text-align: center;
+}
+.cid-E6abnenyMT .text-block {
+  color: #ffffff;
+  margin-bottom: 45px;
+  text-align: left;
+}
+.cid-E6abnenyMT .row.justify-content-between {
+  margin-bottom: 3px;
+  margin: 0;
+  margin-top: 26px;
+}
+.cid-E6abnenyMT .name {
+  width: auto;
+  padding: 0;
+  line-height: 0.2;
+}
+.cid-E6abnenyMT .progress {
+  border-radius: 15px;
+  position: relative;
+  width: 100%;
+  height: 40px;
+  margin-top: 12px;
+  background: #d0d0d0;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.cid-E6abnenyMT .progress-bar {
+  color: #ffffff;
+  height: 40px !important;
+  transition: width 1s ease-in-out;
+  padding-right: 15px;
+  border-radius: 25px;
+  line-height: 40px;
+  text-align: right;
+}
+.cid-E6abnenyMT .pgrbr1 {
+  background-color: #ff0000;
+  width: 0%;
+}
+.cid-E6abnenyMT .pgrbr2 {
+  background-color: #40ff00;
+  width: 0%;
+}
+.cid-E6abnenyMT .pgrbr3 {
+  background-color: #367eff;
+  width: 0%;
+}
+.cid-E6abnenyMT .pgrbr4 {
+  background-color: #ef00ff;
+  width: 0%;
+}
+.cid-E6abnenyMT .pgrbr5 {
+  background-color: #ff8c00;
+  width: 0%;
+}
+.cid-E6abnenyMT .progressbar-numero1:before {
+  content: '0%';
+}
+.cid-E6abnenyMT .progressbar-numero2:before {
+  content: '0%';
+}
+.cid-E6abnenyMT .progressbar-numero3:before {
+  content: '0%';
+}
+.cid-E6abnenyMT .progressbar-numero4:before {
+  content: '0%';
+}
+.cid-E6abnenyMT .progressbar-numero5:before {
+  content: '0%';
+}
+.cid-E6abnenyMT .left {
+  max-width: 557px;
+}
+@media (max-width: 768px) {
+  .cid-E6abnenyMT .text-wrapper {
+    margin-top: 30px;
+  }
+  .cid-E6abnenyMT .left {
+    max-width: initial;
+  }
+}
+@media (min-width: 768px) {
+  .cid-E6abnenyMT .text-elements {
+    padding: 70px 15px 0 150px;
+  }
+  .cid-E6abnenyMT .progress_elements {
+    padding: 0 150px 0 15px;
+  }
+}
+.cid-E6abnenyMT .reset {
+  width: 0%;
+}
+.cid-E6abnenyMT P {
+  text-align: right;
+  color: #ffffff;
+}
