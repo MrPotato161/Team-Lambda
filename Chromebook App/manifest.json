@@ -1,0 +1,17 @@
+{
+"name": "Team Lambda",
+"description": "Team Lambda is a very small team focused on making school better and more enjoyable for everyone! We hope you enjoy our app!",
+"version": "1.0.3",
+"manifest_version": 2,
+"icons": {
+"128": "icon_128.png"
+},
+"app": {
+"urls": [
+"https://mrpotato161.github.io/Team-Lambda/"
+],
+"launch": {
+"web_url": "https://mrpotato161.github.io/Team-Lambda/"
+}
+}
+}
